@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="127px" height="127px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <path d="M 0 0  L 299 0  L 299 299  L 0 299  Z " fill-rule="evenodd" fill="black" id="path107" />
-    <clipPath id="clip108">
-      <use xlink:href="#path107" />
+    <path d="M 0 0  L 299 0  L 299 299  L 0 299  Z " fill-rule="evenodd" fill="black" id="path126" />
+    <clipPath id="clip127">
+      <use xlink:href="#path126" />
     </clipPath>
     <style type="text/css">
 	.st0{fill:#86A845;}
@@ -26,12 +26,12 @@
 	<circle class="st0" cx="194.5" cy="122.5" r="8" />
 	<polygon class="st1" points="191.12,74.52 183.83,81.23 181.19,90.78 174.71,83.55 165.32,81.08 172.61,74.37 175.26,64.82    181.74,72.05  " />
 </g>
-    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter109">
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter128">
       <feColorMatrix type="matrix" values="0.899334853859483 -0.134439970183735 0.235105116324253 0 0  0.0515796708429475 1.04464640981474 -0.0962260806576902 0 0  -0.165003475953899 0.174154300702396 0.990849175251503 0 0  0 0 0 1 0  " in="SourceGraphic" />
     </filter>
   </defs>
   <g transform="matrix(1 0 0 1 -384 -604 )">
-    <g transform="matrix(0.424749163879599 0 0 0.424749163879599 384 604 )" clip-path="url(#clip108)" filter="url(#filter109)">
+    <g transform="matrix(0.424749163879599 0 0 0.424749163879599 384 604 )" clip-path="url(#clip127)" filter="url(#filter128)">
       <style type="text/css">
 	.st0{fill:#86A845;}
 	.st1{fill:#EFF2D8;}
